@@ -120,7 +120,7 @@ For the sake of fairness, please do not train your model with the (HighREV) vali
 The top ranked participants will be awarded and invited to follow the CVPR submission guide for workshops to describe their solution and to submit to the associated NTIRE workshop at CVPR 2025.
 
 
-## Challenge submissions 
+## Solution codebases from the attending teams
 
 All team solutions codebases are provided in a single **Google Drive archive**. Download it here: [Google Drive link](https://drive.google.com/file/d/1po89d2IVn-pSKcQZcJKAQnh3HhGNV_Uh/view?usp=sharing). After extracting the archive, you'll find `./codebases/<team_name>` folder structure for each team.
 
