@@ -118,6 +118,39 @@ For the sake of fairness, please do not train your model with the (HighREV) vali
 
 
 The top ranked participants will be awarded and invited to follow the CVPR submission guide for workshops to describe their solution and to submit to the associated NTIRE workshop at CVPR 2025.
+
+
+## Challenge submissions 
+
+All team solutions codebases are provided in a single **Google Drive archive**. Download it here: [Google Drive link](https://drive.google.com/file/d/1po89d2IVn-pSKcQZcJKAQnh3HhGNV_Uh/view?usp=sharing). After extracting the archive, you'll find `./codebases/<team_name>` folder structure for each team.
+
+
+* **One folder per team**  
+  Example: `./codebases/IVISLAB/`
+
+* **Self-contained instructions**  
+  Every team folder includes its own `README.md` that lists:
+  - prerequisites
+  - installation or environment setup
+  - commands to run the code and reproduce results
+
+## Competition results download
+Each team has also submitted pre‑computed results (e.g., model outputs, prediction files) so you can evaluate or compare without re‑running experiments:
+
+- IVISLAB: https://mega.nz/file/qAQARCbY#B8Hyf6tLwSS5N48NxXZoECdbouyBhQt-P7rJltJDHP0 
+- MiVideoDeblur: https://drive.google.com/drive/folders/1UE10n176zDZwSlwATEk96awNCdyBxijG
+- 404NotFound: https://drive.google.com/file/d/1tN2y7gEJLR770lp4fiRQbH7ZzskiLvVN/view?usp=sharing
+- Give it a try:  https://drive.google.com/file/d/1mD7TPu4K8XjVm7-6SdsylZCfIX4OyWQ2/view?usp=sharing
+- BUMPTT: wget https://1drv.ms/u/c/ea2a370299726471/EcBi4zfln8dOsmerhs8kr9YBlsAlW3EpZNtbMyrRadB2-g?e=qBDhSd
+- WEI wget https://drive.google.com/drive/folders/1bMB8cWuQAXP-7WRdFwT2AzzqmZD6AtC8?usp=sharing
+- PixelRevive: https://mail.163.com/large-attachment-download/index.html?p=X-NTES-HUGE-ATTACHMENT&file=djAyY0RsSjlpT2g3eUJ6eDBadzVkZHhmZz09&title=Re%3ARe%3A%20Re%3A%20NTIRE%202025%20Event-Based%20Image%20Deblurring%20Challenge%20-%20PixelRevive%20-%2001
+- CHD: https://wx.mail.qq.com/ftn/download?func=3&key=71666466b9cffbd4731c2fdc133906184c125004540156071902550757140006570749020c0a051a07560750540a0000575f5c523529344351151039475c4742581255484f50443709&code=4fdf5947&from=qqmail
+- SMU: https://smu-my.sharepoint.com/personal/pmnsbandara_smu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpmnsbandara%5Fsmu%5Fedu%5Fsg%2FDocuments%2FCVPR25%5FDeblurringComp%2FSMU%5Ffinal%5Fsubmission&ga=1
+- CMSL: https://drive.google.com/file/d/11M5_ZspBi4mf0h10xNfuHPQxOllFNtB-/view?usp=drive_link
+- JNU620: https://drive.google.com/file/d/1F5Qac3Fx_BchsQCJ0YDkxubBLgHLU59p/view?usp=sharing
+- Colab: https://drive.google.com/file/d/1kqIfiw3YqwgO9QvdDr3cb7XNJMZBE7dZ/view?usp=drive_link   
+- KUnet: wget https://www.dropbox.com/scl/fi/yrky29x2mdwt3k8e40yol/Results.ziprlkey=q0mj8n0i35gsrkl628lzobhlq&st=n16bdckt&dl=0
+
    
 <!-- ## How to add your model to this baseline?
 1. Register your team in the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XVa8LIaAURYpPvMf7i-_Yqlzh-JsboG0hvcnp-oI9rs/edit?usp=sharing) and get your team ID.
